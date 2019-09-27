@@ -1,0 +1,7 @@
+organization=berktoprakci
+projectKey=org.berktoprakci:My_Code_Analysis
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.884
+dashboardUrl=https://sonarcloud.io/dashboard?id=org.berktoprakci%3AMy_Code_Analysis
+ceTaskId=AW1tz8-hXef7AyXdwIhv
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW1tz8-hXef7AyXdwIhv

@@ -1,0 +1,49 @@
+
+3com.findbugs.examples.OfConcernRankBugs#hashCode()Iq
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java ("4*¯
+2q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java9 (DÒ
+Ï
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java9 (D
+%4java.lang.String"__id*<*:)
+'com.findbugs.examples.OfConcernRankBugs"
+placeHolderÅÂ
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java9 (O	
+%3int"java.lang.String#hashCode()I*
+
+%4java.lang.String2
+hashCode()”
+‘
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java9 (O	
+%1int"__id*
+	
+%3int*
+1*’
+3q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java5 (6”
+‘
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java5 (6	
+%1int"__id*
+	
+%2int*
+1*Ó
+4q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (Ò
+Ï
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java ()
+%0java.lang.String"__id*<*:)
+'com.findbugs.examples.OfConcernRankBugs"
+placeHolder*
+2
+3*ó
+1q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (P"{
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (
+""B+)
+'com.findbugs.examples.OfConcernRankBugs

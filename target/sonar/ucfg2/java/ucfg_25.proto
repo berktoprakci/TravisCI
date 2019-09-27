@@ -1,0 +1,62 @@
+
+Ccom.findbugs.examples.OfConcernRankBugs#equals(Ljava/lang/Object;)Zq
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java ("paramAnnotations*ó
+2q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java
+ ("{
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (
+""*Ë
+3q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java1 (4Ê
+Ç
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (51
+object'com.findbugs.examples.OfConcernRankBugs"__id*
+
+objjava.lang.Object*
+2
+1*ð
+paramAnnotationsq
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java ("»
+¸
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (
+
+%0"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object¥
+¢
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (!
+objjava.lang.Object"__annotation*
+
+%0*
+3*•
+1q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java	 (‡
+„
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java	 (
+%1java.lang.String"Jcom.findbugs.examples.OfConcernRankBugs#getPlaceHolder()Ljava/lang/String;*+)
+'com.findbugs.examples.OfConcernRankBugs
+Œ
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java& (=
+%2java.lang.String"Jcom.findbugs.examples.OfConcernRankBugs#getPlaceHolder()Ljava/lang/String;*3
+1
+object'com.findbugs.examples.OfConcernRankBugsƒ€
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java	 (>
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)"{
+q
+g/Users/bt/Code_Quality_and_Analysis_Training/src/main/java/com/findbugs/examples/OfConcernRankBugs.java (?
+"":
+objjava.lang.ObjectB+)
+'com.findbugs.examples.OfConcernRankBugs
